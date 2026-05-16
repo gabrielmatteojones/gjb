@@ -22,10 +22,6 @@ name = "Contact"
 URL = "contact/"
 weight = 4
 
-[[main]]
-name = "Sample Page"
-URL = "sample-page/"
-weight = 5
 
 # only desktop menu
 [[desktop]]

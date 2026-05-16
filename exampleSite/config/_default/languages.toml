@@ -1,8 +1,8 @@
 # --------------------------
-# English language
+# Italian language
 # --------------------------
-[en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content"
+[It]
+languageName = "It"
+languageCode = "It-us"
+contentDir = "contItt"
 weight = 1

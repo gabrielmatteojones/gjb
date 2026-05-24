@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = "GabbyNews"
-theme = "GabbyNews"
+title = "Gabriel Jones"
+theme = "Gabriel Jones"
 languageName = "It"
 languageCode = "it-it"
 # post pagination
